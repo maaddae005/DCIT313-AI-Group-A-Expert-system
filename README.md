@@ -32,7 +32,9 @@ The system follows the standard Expert System architecture consisting of three m
 
 ## Project Structure
 /knowledge_base   → Prolog rules and facts (.pl file)
+
 /interface        → Python interface that communicates with Prolog
+
 /docs             → Project documentation and knowledge engineering report
 ## Technologies Used
 - SWI-Prolog
