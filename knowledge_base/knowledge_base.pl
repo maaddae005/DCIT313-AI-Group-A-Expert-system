@@ -2,9 +2,7 @@
 crop(maize).
 crop(rice). 
 
-
 % MAIZE ISSUES
-
 % Diagnosis Rules 
 disease(maize, fall_armyworm) :- symptom(leaf_holes), symptom(ragged_leaves), symptom(frass_in_whorl).
 disease(maize, maize_leaf_blight) :- symptom(long_brown_lesions), symptom(yellowing_leaves), symptom(leaf_drying).
@@ -14,7 +12,6 @@ disease(maize, maize_rust) :- symptom(orange_pustules), symptom(powdery_spots), 
 treatment(fall_armyworm, "Cultural: Crop rotation with soybeans/sorghum, early planting. Biological: Neem-based biopesticides or Bt formulations. Chemical: Emamectin benzoate or spinetoram (20% threshold).") :- !.
 treatment(maize_leaf_blight, "Cultural: Remove infected leaves, plow under residue. Biological: Trichoderma harzianum biofungicides. Chemical: Azoxystrobin or Mancozeb every 7-14 days.") :- !.
 treatment(maize_rust, "Cultural: Field sanitation, avoid overhead irrigation. Biological: Bacillus pumilus foliar spray. Chemical: Propiconazole or Sulfur fungicides.") :- !.
-
 
 % RICE ISSUES
 
@@ -29,7 +26,6 @@ treatment(bacterial_leaf_blight, "Cultural: Certified disease-free seeds, drain 
 treatment(rice_stem_borer, "Cultural: Harvest at ground level, synchronize planting. Biological: Trichogramma japonicum parasitoids. Chemical: Chlorantraniliprole or cartap hydrochloride.") :- !.
 
 % Explanations
- 
 explanation(fall_armyworm, "Larvae feed in the whorl creating ragged damage; frass in the whorl is the key diagnostic feature.").
 explanation(maize_leaf_blight, "Thrives in cool, humid conditions; confirmed by cigar-shaped lesions progressing from lower leaves upward.").
 explanation(maize_rust, "Spread by wind; powdery spores releasing from orange pustules are distinctive to rust.").
