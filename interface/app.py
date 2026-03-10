@@ -1,7 +1,7 @@
 import streamlit as st
 from pyswip import Prolog
 
-# --- Interface Styling ---
+# Interface Styling
 st.set_page_config(page_title="AgriGuard Expert System", layout="centered")
 hide_style = """
     <style>
