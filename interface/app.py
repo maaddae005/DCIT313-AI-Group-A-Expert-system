@@ -51,6 +51,7 @@ if st.button("Run Diagnosis"):
             disease_name = result[0]['Disease']
             if isinstance(disease_name, bytes):
                 disease_name = disease_name.decode('utf-8')
+                
             
             # Fetch and decode Treatment and Reasoning
             t_res = list(prolog.query(f"treatment({disease_name}, T)"))
