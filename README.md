@@ -1,7 +1,7 @@
 # DCIT313 – AgriGuard Expert System
 
 ## Group Members
-- Ejeh Joy Ave – 11358724
+- Ejeh Joy Ave [JoyAj4] – 11358724
 - Glorious James Okeyere – 22031299
 - Addae Mabel Awuku – 22014655
 - Firdaus Maltiti Musah – 22021182
