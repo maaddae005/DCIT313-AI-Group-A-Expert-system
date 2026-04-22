@@ -2,7 +2,7 @@
 
 ## Group Members
 - Ejeh Joy Ave [JoyAj4] – 11358724
-- Glorious James Okeyere – 22031299
+- Glorious James Okeyere [maaddae005] – 22031299
 - Addae Mabel Awuku – 22014655
 - Firdaus Maltiti Musah – 22021182
 - Abena Twumwaa Ankobea – 22032277
