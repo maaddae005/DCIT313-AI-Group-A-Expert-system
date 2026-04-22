@@ -4,10 +4,10 @@
 - Ejeh Joy Ave [JoyAj4] – 11358724
 - Glorious James Okeyere [glorious1234-23] – 22031299
 - Addae Mabel Awuku [maaddae005]– 22014655
-- Firdaus Maltiti Musah [Mal-titi6]– 22021182
-- Abena Twumwaa Ankobea – 22032277
-- Amposah Yaw Nana – 22181957
-- Amenyo Hator – 22040317
+- Firdaus Maltiti Musah [Fir-daus6]– 22021182
+- Abena Twumwaa Ankobea [ata-ug]– 22032277
+- Amposah Yaw Nana [NanaYaw777] – 22181957
+- Amenyo Hator [Amehat20] – 22040317
 
 ## Project Description
 AgriGuard is a Knowledge-Based Expert System developed to assist farmers in diagnosing pests and diseases affecting maize and rice crops.
